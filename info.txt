@@ -1,0 +1,9 @@
+title
+address
+city
+pc
+area
+price
+photo
+type
+description

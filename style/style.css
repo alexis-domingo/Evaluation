@@ -1,0 +1,6 @@
+input, textarea {
+  display: flex;
+  margin: 1px auto;
+  text-align: center;
+  padding:10px;
+}
